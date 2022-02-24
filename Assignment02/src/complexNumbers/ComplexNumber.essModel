@@ -1,0 +1,36 @@
+[Box:  - ::complexNumbers]
+X=20
+Y=40
+
+[Diagram:]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
+[Box: ::complexNumbers - ::complexNumbers::ComplexNumber]
+X=231
+Y=161
+
+[Box: ::complexNumbers - ::complexNumbers::FactoryOfComplex]
+X=512
+Y=40
+
+[Box: ::complexNumbers - ::complexNumbers::Polar]
+X=301
+Y=40
+
+[Box: ::complexNumbers - ::complexNumbers::TestDriver]
+X=20
+Y=161
+
+[Box: ::complexNumbers - ::complexNumbers::Vector]
+X=90
+Y=40
+
+[Diagram: ::complexNumbers]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
